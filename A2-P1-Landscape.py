@@ -6,6 +6,7 @@
 
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
+    print("Welcome to the Landscape Calculator")
 #base pay variable   / Tree cost  
     baseCharge= 1000
     treeCost= 100
